@@ -1,0 +1,4 @@
+﻿streamlit
+torch
+torch_geometric
+scipy
