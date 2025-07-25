@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/gnn-paper-classifier.git
+git clone https://github.com/Naveen-Sharma92/gnn-paper-classifier.git
 
 Create and activate a conda environment:
 
@@ -38,3 +38,8 @@ pip install -r requirements.txt
 Run the Streamlit application:
 
 streamlit run app.py
+
+Acknowledgements
+The core training script for the GCN model is based on the introductory example from the official PyTorch Geometric documentation, which served as an excellent starting point for this project.
+
+PyTorch Geometric Introduction
